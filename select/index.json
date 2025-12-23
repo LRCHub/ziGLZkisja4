@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "【初音ミク】 このふざけた素晴らしき世界は、僕の為にある 【n.k】",
+  "base_artist": "n.k / Garakt",
+  "createdAt": "2025-12-23T13:07:25.267724Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "このふざけた素晴らしき世界は、僕の為にある",
+      "artist": "ゆいこんぬ",
+      "has_synced": true,
+      "path": "select/01_このふざけた素晴らしき世界は、僕の為にある_ゆいこんぬ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "このふざけた素晴らしき世界は、僕の為にある",
+      "artist": "n.k feat.初音ミク",
+      "has_synced": false,
+      "path": "select/pl_01_このふざけた素晴らしき世界は、僕の為にある_n.k_feat.初音ミク.txt"
+    }
+  ]
+}
